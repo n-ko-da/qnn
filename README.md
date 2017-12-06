@@ -4,7 +4,7 @@ Qubit neuron model and Qubit neural network
 Contents:
 These examples are function approximation networks.
 "Logic" is the 4bit XOR approximation (4bit parity check) problem.
-"Function" is a function y = ( sin(\pi*x) + sin(2\pi*x) + 2 )/4 approximation[1].
+"Function" is a function y = ( sin(&pi x) + sin(2&pi x) + 2 )/4 approximation[1].
 
 Compile and Execution:
 There is in head of sample code.
